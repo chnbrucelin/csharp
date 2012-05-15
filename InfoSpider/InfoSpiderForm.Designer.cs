@@ -28,8 +28,10 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             this.webBrowser1 = new System.Windows.Forms.WebBrowser();
             this.browser = new System.Windows.Forms.WebBrowser();
+            this.timer = new System.Windows.Forms.Timer(this.components);
             this.SuspendLayout();
             // 
             // webBrowser1
@@ -51,6 +53,10 @@
             this.browser.TabIndex = 1;
             this.browser.Url = new System.Uri("http://www.baidu.com", System.UriKind.Absolute);
             // 
+            // timer
+            // 
+            this.timer.Tick += new System.EventHandler(this.timer_Tick);
+            // 
             // InfoSpiderForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
@@ -69,6 +75,7 @@
 
         private System.Windows.Forms.WebBrowser webBrowser1;
         private System.Windows.Forms.WebBrowser browser;
+        private System.Windows.Forms.Timer timer;
     }
 }
 
