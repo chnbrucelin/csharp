@@ -1,0 +1,9 @@
+D:\开发\InfoSpider\InfoSpider\bin\Debug\InfoSpider.exe
+D:\开发\InfoSpider\InfoSpider\bin\Debug\InfoSpider.pdb
+D:\开发\InfoSpider\InfoSpider\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\开发\InfoSpider\InfoSpider\obj\x86\Debug\InfoSpider.InfoSpiderForm.resources
+D:\开发\InfoSpider\InfoSpider\obj\x86\Debug\InfoSpider.Properties.Resources.resources
+D:\开发\InfoSpider\InfoSpider\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\开发\InfoSpider\InfoSpider\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\开发\InfoSpider\InfoSpider\obj\x86\Debug\InfoSpider.exe
+D:\开发\InfoSpider\InfoSpider\obj\x86\Debug\InfoSpider.pdb
